@@ -1,7 +1,7 @@
 # import os
 
 # Below are the configuration settings for running automation scripts in
-# different TESTING environments ( DEV ,SYS , STG , PRD ) and in different BROWSERS ( gc , ff )
+# different TESTING environments and in different BROWSERS ( gc , ff )
 # either in LOCAL MACHINE or AGENT PIPELINE
 
 # Please update the variable value to 'PIPELINE' in case of check-in the code in your QA Agent pipeline
