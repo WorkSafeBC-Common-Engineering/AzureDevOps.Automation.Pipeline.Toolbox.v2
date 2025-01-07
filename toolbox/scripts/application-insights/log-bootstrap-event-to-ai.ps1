@@ -261,7 +261,7 @@ Function DevSecOpsEvent ()
 # MAIN SCRIPT
 ######################################################################################################
 
-##Instrumentation key for DV-DV-CC-CommonEngineering-AI
+##Instrumentation key
 $InstrumentationKey = '__TODO_ACTION__INSERT_AI_INSTRUMENTATION_KEY__'
 
 #Build the custom properties
